@@ -4,4 +4,6 @@
 
 int main(){
 	int a, b;
+
+	printf("hello\n");
 }
