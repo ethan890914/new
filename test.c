@@ -8,5 +8,6 @@ int main(){
 
 	printf("hello\n");
 
-	int c;
+	int c = 5;
+
 }
