@@ -5,5 +5,8 @@
 int main(){
 	int a, b;
 
+
 	printf("hello\n");
+
+	printf("dddd");
 }
